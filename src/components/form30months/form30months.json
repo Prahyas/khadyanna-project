@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_form30months_form30months",
+  "info": {
+    "displayName": "form30months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "barshikpunjigat": {
+      "type": "biginteger"
+    },
+    "barshikchalu": {
+      "type": "biginteger"
+    },
+    "mahinapunjigat": {
+      "type": "biginteger"
+    },
+    "mahinachalu": {
+      "type": "biginteger"
+    },
+    "mahinarajaswo": {
+      "type": "biginteger"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "collectionName": "components_form11months_form11months",
+  "info": {
+    "displayName": "form11months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "shrawan": {
+      "type": "integer"
+    },
+    "bhadra": {
+      "type": "integer"
+    },
+    "ashwin": {
+      "type": "integer"
+    },
+    "kartik": {
+      "type": "integer"
+    },
+    "mangsir": {
+      "type": "integer"
+    },
+    "poush": {
+      "type": "integer"
+    },
+    "magh": {
+      "type": "integer"
+    },
+    "falgun": {
+      "type": "integer"
+    },
+    "chaitra": {
+      "type": "integer"
+    },
+    "baisakh": {
+      "type": "integer"
+    },
+    "jestha": {
+      "type": "integer"
+    },
+    "ashar": {
+      "type": "integer"
+    },
+    "mahinapragati": {
+      "type": "integer"
+    },
+    "namunasankhya": {
+      "type": "integer"
+    },
+    "parameter": {
+      "type": "integer"
+    },
+    "pragati": {
+      "type": "integer"
+    },
+    "pragatipercent": {
+      "type": "integer"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

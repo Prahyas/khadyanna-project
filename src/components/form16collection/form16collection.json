@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_form16collection_form16collections",
+  "info": {
+    "displayName": "form16collection",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "khadyanna": {
+      "type": "string"
+    },
+    "form16months": {
+      "displayName": "form16months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form16months.form16months"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form10s",
+  "info": {
+    "singularName": "form10",
+    "pluralName": "form10s",
+    "displayName": "Form10"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form10collection": {
+      "displayName": "form10collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form10collection.form10collection"
+    }
+  }
+}

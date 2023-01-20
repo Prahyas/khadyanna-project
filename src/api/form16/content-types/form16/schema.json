@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form16s",
+  "info": {
+    "singularName": "form16",
+    "pluralName": "form16s",
+    "displayName": "Form16",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form16collection": {
+      "displayName": "form16collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form16collection.form16collection"
+    }
+  }
+}

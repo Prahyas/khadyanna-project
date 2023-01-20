@@ -1,0 +1,55 @@
+{
+  "collectionName": "components_form21months_form21months",
+  "info": {
+    "displayName": "form21months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "sanchalanmiti": {
+      "type": "string"
+    },
+    "nam": {
+      "type": "string"
+    },
+    "sthan": {
+      "type": "string"
+    },
+    "mahila": {
+      "type": "integer"
+    },
+    "purush": {
+      "type": "integer"
+    },
+    "dalit": {
+      "type": "integer"
+    },
+    "janjati": {
+      "type": "integer"
+    },
+    "anya": {
+      "type": "integer"
+    },
+    "bipanna": {
+      "type": "integer"
+    },
+    "anya2": {
+      "type": "integer"
+    },
+    "namnum": {
+      "type": "string"
+    },
+    "nikaya": {
+      "type": "string"
+    },
+    "prasixyak": {
+      "type": "string"
+    },
+    "bisayabastu": {
+      "type": "string"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

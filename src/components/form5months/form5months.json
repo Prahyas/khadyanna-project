@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_form5months_form5months",
+  "info": {
+    "displayName": "form5months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "shrawan": {
+      "type": "integer"
+    },
+    "bhadra": {
+      "type": "integer"
+    },
+    "ashwin": {
+      "type": "integer"
+    },
+    "kartik": {
+      "type": "integer"
+    },
+    "mangsir": {
+      "type": "integer"
+    },
+    "poush": {
+      "type": "integer"
+    },
+    "magh": {
+      "type": "integer"
+    },
+    "falgun": {
+      "type": "integer"
+    },
+    "chaitra": {
+      "type": "integer"
+    },
+    "baisakh": {
+      "type": "integer"
+    },
+    "jestha": {
+      "type": "integer"
+    },
+    "ashar": {
+      "type": "integer"
+    },
+    "chaumasikpragati": {
+      "type": "integer"
+    },
+    "arthikbarshapragati": {
+      "type": "integer"
+    },
+    "bigatbarshapragati": {
+      "type": "integer"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

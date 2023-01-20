@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form1s",
+  "info": {
+    "singularName": "form1",
+    "pluralName": "form1s",
+    "displayName": "Form1",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "collection": {
+      "displayName": "Collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "collection.collection"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "date": {
+      "type": "string"
+    }
+  }
+}

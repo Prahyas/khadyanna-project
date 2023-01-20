@@ -1,0 +1,51 @@
+{
+  "collectionName": "components_form15months_form15months",
+  "info": {
+    "displayName": "form15months"
+  },
+  "options": {},
+  "attributes": {
+    "udhyognamthegana": {
+      "type": "string"
+    },
+    "bastukonam": {
+      "type": "string"
+    },
+    "sankalanmiti": {
+      "type": "string"
+    },
+    "sankalansthan": {
+      "type": "string"
+    },
+    "khani": {
+      "type": "string"
+    },
+    "peshgarekomiti": {
+      "type": "string"
+    },
+    "bishlesanmiti": {
+      "type": "string"
+    },
+    "prakar": {
+      "type": "string"
+    },
+    "parameter": {
+      "type": "integer"
+    },
+    "dayarsthan": {
+      "type": "string"
+    },
+    "dayarmiti": {
+      "type": "string"
+    },
+    "dayargarnekhani": {
+      "type": "string"
+    },
+    "dayargarnekaryalaya": {
+      "type": "string"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

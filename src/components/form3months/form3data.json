@@ -1,0 +1,56 @@
+{
+  "collectionName": "components_form3data_form3data",
+  "info": {
+    "displayName": "form3months",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "patak": {
+      "type": "integer"
+    },
+    "sankhya": {
+      "type": "integer"
+    },
+    "kaifiyat": {
+      "type": "text"
+    },
+    "shrawan": {
+      "type": "integer"
+    },
+    "bhadra": {
+      "type": "integer"
+    },
+    "ashwin": {
+      "type": "integer"
+    },
+    "kartik": {
+      "type": "integer"
+    },
+    "mangsir": {
+      "type": "integer"
+    },
+    "poush": {
+      "type": "integer"
+    },
+    "magh": {
+      "type": "integer"
+    },
+    "falgun": {
+      "type": "integer"
+    },
+    "chaitra": {
+      "type": "integer"
+    },
+    "baisakh": {
+      "type": "integer"
+    },
+    "jestha": {
+      "type": "integer"
+    },
+    "ashar": {
+      "type": "integer"
+    }
+  }
+}

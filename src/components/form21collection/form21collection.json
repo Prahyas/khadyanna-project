@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_form21collection_form21collections",
+  "info": {
+    "displayName": "form21collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "form21months": {
+      "displayName": "form21months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form21months.form21months"
+    }
+  }
+}

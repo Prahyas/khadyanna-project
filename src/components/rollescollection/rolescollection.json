@@ -1,0 +1,51 @@
+{
+  "collectionName": "components_rollescollection_rolescollections",
+  "info": {
+    "displayName": "rolescollection",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "permission1": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission2": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission3": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission4": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission5": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission6": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission7": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission8": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission9": {
+      "type": "string",
+      "default": "none"
+    },
+    "permission10": {
+      "type": "string",
+      "default": "none"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "collectionName": "components_form10months_form10months",
+  "info": {
+    "displayName": "form10months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "bazarsankhya": {
+      "type": "integer"
+    },
+    "bazarpratikul": {
+      "type": "integer"
+    },
+    "udhyogsankhya": {
+      "type": "integer"
+    },
+    "udhyogpratikul": {
+      "type": "integer"
+    },
+    "survelancesankhya": {
+      "type": "integer"
+    },
+    "survelancepratikul": {
+      "type": "integer"
+    },
+    "karyalayasankhya": {
+      "type": "integer"
+    },
+    "karyalayapratikul": {
+      "type": "integer"
+    },
+    "anugyasankhya": {
+      "type": "integer"
+    },
+    "anugyapratikul": {
+      "type": "integer"
+    },
+    "samplesankhya": {
+      "type": "integer"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

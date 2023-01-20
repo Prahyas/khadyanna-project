@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form19s",
+  "info": {
+    "singularName": "form19",
+    "pluralName": "form19s",
+    "displayName": "Form19",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form19collection": {
+      "displayName": "form19collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form19collection.form19collection"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    }
+  }
+}

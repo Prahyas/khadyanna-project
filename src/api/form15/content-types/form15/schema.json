@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form15s",
+  "info": {
+    "singularName": "form15",
+    "pluralName": "form15s",
+    "displayName": "Form15",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "saptaha": {
+      "type": "string"
+    },
+    "form15collection": {
+      "displayName": "form15collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form15collection.form15collection"
+    }
+  }
+}

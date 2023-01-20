@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form11s",
+  "info": {
+    "singularName": "form11",
+    "pluralName": "form11s",
+    "displayName": "Form11",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form11collection": {
+      "displayName": "form11collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form11collection.form11collection"
+    }
+  }
+}

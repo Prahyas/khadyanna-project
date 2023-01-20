@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_form10collection_form10collections",
+  "info": {
+    "displayName": "form10collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "khadyanna": {
+      "type": "string"
+    },
+    "form10months": {
+      "displayName": "form10months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form10months.form10months"
+    }
+  }
+}

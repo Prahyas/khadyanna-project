@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form21s",
+  "info": {
+    "singularName": "form21",
+    "pluralName": "form21s",
+    "displayName": "Form21"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form21collection": {
+      "displayName": "form21collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form21collection.form21collection"
+    }
+  }
+}

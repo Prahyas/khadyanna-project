@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form30s",
+  "info": {
+    "singularName": "form30",
+    "pluralName": "form30s",
+    "displayName": "Form30"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form30collection": {
+      "displayName": "form30collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form30collection.form30collection"
+    }
+  }
+}

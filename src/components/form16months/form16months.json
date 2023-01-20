@@ -1,0 +1,46 @@
+{
+  "collectionName": "components_form16months_form16months",
+  "info": {
+    "displayName": "form16months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "shrawan": {
+      "type": "integer"
+    },
+    "bhadra": {
+      "type": "integer"
+    },
+    "ashwin": {
+      "type": "integer"
+    },
+    "kartik": {
+      "type": "integer"
+    },
+    "mangsir": {
+      "type": "integer"
+    },
+    "poush": {
+      "type": "integer"
+    },
+    "magh": {
+      "type": "integer"
+    },
+    "falgun": {
+      "type": "integer"
+    },
+    "chaitra": {
+      "type": "integer"
+    },
+    "baisakh": {
+      "type": "integer"
+    },
+    "jestha": {
+      "type": "integer"
+    },
+    "ashar": {
+      "type": "integer"
+    }
+  }
+}

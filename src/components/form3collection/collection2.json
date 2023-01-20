@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_collection2_collection2s",
+  "info": {
+    "displayName": "form3collection",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "bibaran": {
+      "type": "string"
+    },
+    "form3months": {
+      "displayName": "form3data",
+      "type": "component",
+      "repeatable": false,
+      "component": "form3months.form3data"
+    }
+  }
+}

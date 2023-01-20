@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form5s",
+  "info": {
+    "singularName": "form5",
+    "pluralName": "form5s",
+    "displayName": "Form5"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form5collection": {
+      "displayName": "form5collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form5collection.form5collection"
+    }
+  }
+}

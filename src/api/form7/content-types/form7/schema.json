@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form7s",
+  "info": {
+    "singularName": "form7",
+    "pluralName": "form7s",
+    "displayName": "Form7"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "form7collection": {
+      "displayName": "form7collection",
+      "type": "component",
+      "repeatable": true,
+      "component": "form7collection.form7collection"
+    }
+  }
+}

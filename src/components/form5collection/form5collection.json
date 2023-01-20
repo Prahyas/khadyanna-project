@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_form5collection_form5collections",
+  "info": {
+    "displayName": "form5collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "bibaran": {
+      "type": "string"
+    },
+    "form5months": {
+      "displayName": "form5months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form5months.form5months"
+    }
+  }
+}

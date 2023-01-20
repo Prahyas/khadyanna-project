@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_form7collection_form7collections",
+  "info": {
+    "displayName": "form7collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "prayogsala": {
+      "type": "string"
+    },
+    "form7months": {
+      "displayName": "form7months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form7months.form7months"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form3s",
+  "info": {
+    "singularName": "form3",
+    "pluralName": "form3s",
+    "displayName": "Form3"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "karyalaya": {
+      "type": "string"
+    },
+    "arthikbarsha": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "timecode": {
+      "type": "biginteger"
+    },
+    "saptaha": {
+      "type": "string"
+    },
+    "form3collection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "form3collection.collection2"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_form19collection_form19collections",
+  "info": {
+    "displayName": "form19collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "form19months": {
+      "type": "component",
+      "repeatable": false,
+      "component": "form19months.form19months"
+    }
+  }
+}

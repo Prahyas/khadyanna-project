@@ -1,0 +1,61 @@
+{
+  "collectionName": "components_form7months_form7months",
+  "info": {
+    "displayName": "form7months",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "shrawan": {
+      "type": "integer"
+    },
+    "bhadra": {
+      "type": "integer"
+    },
+    "ashwin": {
+      "type": "integer"
+    },
+    "kartik": {
+      "type": "integer"
+    },
+    "mangsir": {
+      "type": "integer"
+    },
+    "poush": {
+      "type": "integer"
+    },
+    "magh": {
+      "type": "integer"
+    },
+    "falgun": {
+      "type": "integer"
+    },
+    "chaitra": {
+      "type": "integer"
+    },
+    "baisakh": {
+      "type": "integer"
+    },
+    "jestha": {
+      "type": "integer"
+    },
+    "ashar": {
+      "type": "integer"
+    },
+    "sankhya": {
+      "type": "integer"
+    },
+    "pratikul": {
+      "type": "integer"
+    },
+    "pragati": {
+      "type": "integer"
+    },
+    "pragatipercent": {
+      "type": "integer"
+    },
+    "kaifiyat": {
+      "type": "text"
+    }
+  }
+}

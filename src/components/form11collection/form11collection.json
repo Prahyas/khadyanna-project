@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_form11collection_form11collections",
+  "info": {
+    "displayName": "form11collection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "prayogsala": {
+      "type": "string"
+    },
+    "form11months": {
+      "displayName": "form11months",
+      "type": "component",
+      "repeatable": false,
+      "component": "form11months.form11months"
+    }
+  }
+}
